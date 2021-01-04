@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: eduardo
- * Date: 07/06/18
- * Time: 00:05
- */
+
 session_start();
 
 function setarMensagemSucesso(string $mensagem) : void

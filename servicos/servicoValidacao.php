@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: eduardo
- * Date: 06/06/18
- * Time: 23:54
- */
+
 function validaNome(string $nome) : bool
 {
     if(empty($nome))

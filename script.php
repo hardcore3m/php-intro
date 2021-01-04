@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: eduardo
- * Date: 03/06/18
- * Time: 16:56
- */
+
 
 include "servicos/servicoMensagemSessao.php";
 include "servicos/servicoValidacao.php";

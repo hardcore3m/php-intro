@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: eduardo
- * Date: 07/06/18
- * Time: 00:29
- */
 function defineCategoriaCompetidor(string $nome, string $idade) : ?string
 {
     $catetorias = [];
